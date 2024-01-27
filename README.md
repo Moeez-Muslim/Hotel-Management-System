@@ -32,6 +32,7 @@ Before you start, ensure you have [Java](https://www.java.com/en/download/) inst
 ```bash
 git clone https://github.com/Moeez-Muslim/Hotel-Management-System.git
 cd Hotel-Management-System
+```
 
 ## How to Use
 
